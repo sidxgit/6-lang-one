@@ -1,5 +1,5 @@
 # 6-lang-one
-/* Program to demonstrate time taken by loop */
+/* Program to demonstrate time taken by loop written in C */
 #include<time.h>
 #include<stdio.h>
 void main()
